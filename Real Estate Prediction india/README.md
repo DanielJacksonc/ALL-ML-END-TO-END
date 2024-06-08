@@ -43,3 +43,13 @@
             5. finding the best model with grid search and hyper parameter tunning
             6. predicting using the best model
     7. Export model to pickle file so that it can be used by python flask server
+    8. we export our columns information. We need them for their index in the list and their arragment. for accurate prediction
+    9. Write python script that will serve as the SERVER to  http request from the UI. will serve as the backend for the UI.
+       
+### We wiil be building and deploying our model. 
+#### There are three folders we need:
+    1. Folder for our server
+    2. Folder for our client
+    3.Folder for our model
+    4. nOW to continue, go to README for server in servy folder and follow instruction
+    
