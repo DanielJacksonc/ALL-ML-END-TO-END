@@ -26,7 +26,7 @@ def get_estimated_price(location,sqft,bhk,bath):
 
 #This function returns  the list of location names
 def get_location_names():
-    
+    # util.load_saved_artifacts()
     return __locations
 
 

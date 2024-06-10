@@ -52,4 +52,13 @@
     2. Folder for our client
     3.Folder for our model
     4. nOW to continue, go to README for server in servy folder and follow instruction
+    5. when you are don with 4, you follow instructions in client.readme. but before then, create three files in the client
+        1. app.html
+            structure
+            element
+            anatomy
+        2. app.css
+            style, look and fill
+        3. app.js
+            dynamic code. it communicates with the server.
     
